@@ -1,0 +1,19 @@
+
+$imgdir: "../../images/";
+body {
+  background-color: #efefef;
+  font-family: arial,sans-serif;
+  font-size: 14px;
+}
+canvas {
+  height: auto;
+  border: 1px solid #333;
+  float: right;
+}
+
+.drawForm, .errorBox {
+  width: 49%;
+  display: inline-block;
+  min-width: 320px;
+  vertical-align: top;
+}

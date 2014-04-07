@@ -1,0 +1,20 @@
+/* line 3, ../scss/main.scss */
+body {
+  background-color: #efefef;
+  font-family: arial,sans-serif;
+  font-size: 14px; }
+
+/* line 8, ../scss/main.scss */
+canvas {
+  height: auto;
+  border: 1px solid #333;
+  float: right; }
+
+/* line 14, ../scss/main.scss */
+.drawForm, .errorBox {
+  width: 49%;
+  display: inline-block;
+  min-width: 320px;
+  vertical-align: top; }
+
+/*# sourceMappingURL=main.css.map */
