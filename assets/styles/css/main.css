@@ -10,7 +10,12 @@ canvas {
   border: 1px solid #333;
   float: right; }
 
-/* line 14, ../scss/main.scss */
+/* line 16, ../scss/main.scss */
+.shapeVars label span {
+  display: inline-block;
+  width: 100px; }
+
+/* line 23, ../scss/main.scss */
 .drawForm, .errorBox {
   width: 49%;
   display: inline-block;
